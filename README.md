@@ -55,7 +55,7 @@ After a long process of analysis, we will conclude on few strong indicators/patt
 - library - Seaborn
 
 ## Acknowledgements
-Give credit here.
+
 - This project has contributions from Abhishek Shukla
 - This project was based on subjects/topics taught by Upgrad Instructors based on Course 1 - Python for Data Science and Course 2 - Data Visualizations and EDA
 - This project is also inspired by examples given and techniques taught by Upgrad Instructors Shivam Garg, Amit Pandey, Swapnil Desai and Tanisha Medewala
